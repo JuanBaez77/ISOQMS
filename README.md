@@ -23,3 +23,5 @@ Plataforma Web para la Gestión de Hallazgos y No Conformidades según ISO 9001:
 - [ ] Generar migraciones
 
 ### Documentacion
+> Diagrama E/R
+> ![Diagrama ER](./assets/ISOQMS_diagrama_ER)
